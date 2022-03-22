@@ -6,5 +6,4 @@ queries to pull data (such as deaths vrs population, and covid cases per country
 2) Covid-19 Dashboard.png: This is the tableau dashboard visualizing all of the data i extracted. 
 https://public.tableau.com/views/COVID-19Dashboard_16462633874720/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link 
 
-3) NashvilleHousingDataCleaning.sql: This file takes data taken from Nashvilles housing dataset, cleaning includes standarizing dates, getting rid of duplicates, getting rid of excessive columns, and splitting up address into street/city/state columns.
 
